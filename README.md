@@ -1,4 +1,4 @@
-This is the readme file fir the wordcounter.
+This is the readme file for the wordcounter.
 
 the code is commented sufficiently to guide you through.
 
