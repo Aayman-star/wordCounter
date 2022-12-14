@@ -1,9 +1,9 @@
 {
-  "name": "wordcounter",
+  "name": "wordcounter001",
   "version": "1.0.0",
-  "description": "",
+  "description": "A package that counts the number of words in a text",
   "main": "output/index.js",
-  "bin": {"wordcounter":"output/index.js"},
+  "bin": {"wordcounter001":"output/index.js"},
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
